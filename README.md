@@ -1,4 +1,5 @@
 # Project1AISummer2022
+
 Project 1 Checkers game for AI Summer 2022
 Project 1 CAP4630 Summer 2022
 Professor: Oge Marques PhD
